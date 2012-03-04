@@ -1,4 +1,13 @@
-CAD, Schematic and code files for the Diyshift project. http://www.diyshift.com
+CAD, schematic and code files for the Diyshift electronic bicycle shifter project.
+
+All .pde files are intended for use with the Arduino IDE  http://www.arduino.cc
+All .fz files are viewable with Fritzing  http://fritzing.org
+All .dxf may be viewed with Qcad community edition http://www.qcad.org or most other 2D CAD software
+
+These files by no means represent a completed work but instead a snapshot of a work in progress. 
+There are still many obstacles to be overcome and improvements to be made. I will provide 
+continual updates as they become available. For more information regarding this project please visit 
+http://www.diyshift.com
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. 
 To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ 
