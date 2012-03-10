@@ -1,5 +1,9 @@
 CAD, schematic and code files for the Diyshift electronic bicycle shifter project.
 
+Please note that Sram has released a new version of its X5 rear derailleur for 2012 which has not been tested for 
+compatibility with the E-railleur kit. As a result the E-railleur kit CAD and image files will remain here
+for reference purposes only. 
+
 All .pde files are intended for use with the Arduino IDE  http://www.arduino.cc
 All .fz files are viewable with Fritzing  http://fritzing.org
 All .dxf may be viewed with Qcad community edition http://www.qcad.org or most other 2D CAD software
